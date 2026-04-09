@@ -18,7 +18,7 @@ A responsive coming soon page featuring a Christmas-themed countdown timer. The 
 
 ## Live Demo
 
-View the live demo: [https://iam269.github.io/Coming-Soon-Page/](https://iam269.github.io/Coming-Soon-Page/)
+View the live demo: [https://itsiamdev.github.io/Coming-Soon-Page/](https://itsiamdev.github.io/Coming-Soon-Page/)
 
 ## Installation
 
